@@ -6,4 +6,5 @@ init stX
 4. Lessons Learnt
 5. Addendum
 
-sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIBiH+Y84xHTjknmvJAAtscm3X9nKl0srOjgb0aFTM9aCAAAABHNzaDo= mpyeager@stX
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFYIaT8Un3k9+RaQ61v2UnVKWXcpN/uOu63Tg4+PluNY mpyeager@stX
+
